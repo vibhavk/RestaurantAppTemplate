@@ -1,6 +1,42 @@
 <resources>
-    <string name="app_name">Bits and Pizzas</string>
+    <string name="app_name">Made by Vibhav!</string>
     <string name="create_order">Create Order</string>
     <string name="create_order_title">Create Order</string>
     <string name="action_share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_top">Top fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="pizzas">
+        <item>Margherita (vibhav's favourite)</item>
+        <item>Veg Supreme</item>
+    </string-array>
+
+    <string-array name="pastas">
+        <item>Spaghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Bengaluru</item>
+        <item>Delhi</item>
+    </string-array>
+
+    <string name="home_tab">Home</string>
+    <string name="pizza_tab">Pizzas</string>
+    <string name="pasta_tab">Pasta</string>
+    <string name="store_tab">Stores</string>
+
+
+    <string name="company_name">Restaurant Name</string>
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="home_text">This is the portion left in template style for user to edit the contents
+    according to their needs. This text can contain any relevant introduction, the user wishes to fill in
+    this page's tab bar has scrolling capability. So enjoy.</string>
+
+    <string name= "order_name_hint">Please enter your name</string>
+    <string name="order_details_hint">Please enter your order</string>
 </resources>
