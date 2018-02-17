@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Made by Vibhav!</string>
+    <string name="app_name">RestaurantAppVib</string>
     <string name="create_order">Create Order</string>
     <string name="create_order_title">Create Order</string>
     <string name="action_share">Share</string>
@@ -11,8 +11,8 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string-array name="pizzas">
-        <item>Margherita (vibhav's favourite)</item>
-        <item>Veg Supreme</item>
+        <item>Diavolo</item>
+        <item>Funghi</item>
     </string-array>
 
     <string-array name="pastas">
@@ -37,6 +37,6 @@
     according to their needs. This text can contain any relevant introduction, the user wishes to fill in
     this page's tab bar has scrolling capability. So enjoy.</string>
 
-    <string name= "order_name_hint">Please enter your name</string>
+    <string name="order_name_hint">Please enter your name</string>
     <string name="order_details_hint">Please enter your order</string>
 </resources>
